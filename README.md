@@ -69,7 +69,11 @@ Typical use case:
 }
 
 
-// ## Example responce
+---
+
+## Example response
+
+```json
 {
   "ok": true,
   "keyword": "cleaners",
@@ -90,3 +94,4 @@ Typical use case:
     }
   ]
 }
+
